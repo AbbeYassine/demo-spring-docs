@@ -7,3 +7,4 @@ site_name: Spring Demo Docs
 nav:
   - Initialisation Du Projet: index.md
   - Spring Hibernate: hibernate.md
+  - Spring REST: springrest.md

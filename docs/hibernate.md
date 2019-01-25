@@ -16,7 +16,7 @@ il faut ajouter ces ligne de code dans le fichier `build.gradle` :
 buildscript {
 	ext {
 		// ******
-		jpaVersion = "2.1.4.RELEASE"
+		jpaVersion = "2.1.1.RELEASE"
 		mysqlConnectorVersion = "8.0.13"
 	}
 	// ****
