@@ -77,4 +77,3 @@ Ajoutant une autre méthode nommé `indexJson()` dans notre controller:
 ## Tester le projet
 
 Vous pouvez maintenant tester nos web services sur [http://localhost:8080](http://localhost:8080)
-

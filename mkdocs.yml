@@ -4,3 +4,6 @@ markdown_extensions:
 - admonition
 - codehilite
 site_name: Spring Demo Docs
+nav:
+  - Initialisation Du Projet: index.md
+  - Spring Hibernate: hibernate.md
